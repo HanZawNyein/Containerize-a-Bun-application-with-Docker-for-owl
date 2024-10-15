@@ -1,5 +1,5 @@
 <templates>
-  <t t-name="Root">
-    <div>hello owl</div>
-  </t>
+    <t t-name="Root">
+        <div>welcome from IdeaCode Academy.</div>
+    </t>
 </templates>
