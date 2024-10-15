@@ -1,5 +1,8 @@
 <templates>
     <t t-name="Root">
-        <div>welcome from IdeaCode Academy.</div>
+        <link rel="stylesheet" href="root.css"/>
+        <div class="div-center">
+            <h2>welcome from <b>IdeaCode Academy</b>.</h2>
+        </div>
     </t>
 </templates>
